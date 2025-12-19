@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Tamim Hasan 👋</h1>
 <!-- Top Banner / Thumbnail -->
 <p align="center">
-  <img src="https://github.com/React-Crafter/react-crafter/blob/main/banner.png" alt="Profile Banner"/>
+  <img src="https://github.com/React-Crafter/react-crafter/blob/main/my-banner.png" alt="Profile Banner"/>
 </p>
 
 <p align="center">MERN Stack Developer | Building web applications & learning Full Stack Development 🚀</p>
