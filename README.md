@@ -26,8 +26,8 @@
 ## 🚀 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| TeamStacker | Team management SaaS platform | [GitHub](https://github.com/username/teamstacker) |
-| Portfolio | Personal portfolio website | [GitHub](https://github.com/username/portfolio) |
+| TeamStacker | Team management SaaS platform | [GitHub](https://github.com/React-Crafter/teamstacker) |
+| Portfolio | Personal portfolio website | [GitHub](https://github.com/React-Crafter/portfolio) |
 
 ---
 
