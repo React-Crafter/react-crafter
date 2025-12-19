@@ -2,13 +2,13 @@
        GitHub Profile README
 ========================= -->
 
-<!-- Top Banner / Thumbnail -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Hi+I'm+Tamim+Hasan" alt="Profile Banner"/>
-</p>
-
 <!-- Intro / About Me -->
 <h1 align="center">Hi, I'm Tamim Hasan 👋</h1>
+<!-- Top Banner / Thumbnail -->
+<p align="center">
+  <img src="https://github.com/React-Crafter/react-crafter/blob/main/banner.png" alt="Profile Banner"/>
+</p>
+
 <p align="center">MERN Stack Developer | Building web applications & learning Full Stack Development 🚀</p>
 
 ---
